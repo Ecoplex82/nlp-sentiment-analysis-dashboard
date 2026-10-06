@@ -1,0 +1,14 @@
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.tmp
+
+# VS Code & IDEs
+.vscode/
+.idea/
+
+# OS specific
+.DS_Store
+Thumbs.db
